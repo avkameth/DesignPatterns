@@ -15,6 +15,9 @@ namespace DesignPatterns
             // This is code for Behavior
             
             // Forth Line
+            
+            
+            // Fifth Line
         }
     }
 }
