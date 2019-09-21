@@ -10,6 +10,8 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
+            //This is Test
+            //Second Method
             // This is code for Behavior
         }
     }
